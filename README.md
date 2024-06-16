@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
  -  [osTicket: Prerequisites and Installation](https://github.com/rmowatt21/osticket-prereqs-)
-  - [osTicket: Post-Installation Configuration](https://github.com/rmowatt21/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/rmowatt21/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rmowatt21/configure-ad)
