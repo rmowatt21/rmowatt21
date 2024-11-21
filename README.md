@@ -12,4 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/rashad-mowatt-9b401899
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/nick-bannenberg-526896278
