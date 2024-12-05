@@ -7,6 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rmowatt21/Configure-AD-.git)
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//rmowatt21/azure-network-protocols)
+  -  [Performing activities on the network] 
 
 <h2>🤳Connect with me:</h2>
 
