@@ -13,7 +13,7 @@
 #### ⚠️ Vulnerability Management Projects
    
  -  [Full Vulnerability Project](https://github.com/rmowatt21/vulnerability-management-program/tree/main)
- -  [STIG Remediation](
+ -  [Multiple STIG Remediation](https://github.com/rmowatt21/STIG-Lab)
 
 #### 🎯 Full SIEM
 
