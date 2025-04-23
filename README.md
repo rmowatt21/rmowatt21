@@ -10,7 +10,7 @@
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//rmowatt21/azure-network-protocols)
   -  https://github.com/rmowatt21/Create-a-domain-Admin-user-within-the-domain.git
   
-<b>⚠️ Vulnerability Management Projects</b>
+#### ⚠️ Vulnerability Management Projects
    
  -  https://github.com/rmowatt21/vulnerability-management-program/tree/main
 
@@ -18,4 +18,12 @@
 
 [<img align="left" alt="Rashad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+#### 🎯 Full SIEM
+
+- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/TrevinoParker7/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People)**
+
 [linkedin]: https://www.linkedin.com/in/rashad-mowatt-9b401899/
+
+
+
+
