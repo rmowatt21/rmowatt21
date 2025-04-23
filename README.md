@@ -8,7 +8,8 @@
  🔐  <b>Azure Cloud Projects<b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rmowatt21/Configure-AD-.git)
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//rmowatt21/azure-network-protocols)
-  -  [Create a domain in Admin user](https://github.com/rmowatt21/Create-a-domain-Admin-user-within-the-domain.git) 
+  -  [Create a domain in Admin user](https://github.com/rmowatt21/Create-a-domain-Admin-user-within-the-domain.git)
+  -  [
 
 #### ⚠️ Vulnerability Management Projects
    
