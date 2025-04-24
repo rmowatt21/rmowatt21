@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-   <b>🧰OsTicket (Help Desk Ticketing System)</b>
+   <b>🧰OS Ticket (Help Desk Ticketing System)</b>
   - [OsTicket: Prerequisites and Installation](https://github.com/rmowatt21/osticket-prereqs-)
 
  🔐  <b>Azure Cloud Projects<b>
