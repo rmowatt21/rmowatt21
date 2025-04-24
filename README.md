@@ -4,6 +4,7 @@
 
  <b>🧰OS Ticket (Help Desk Ticketing System)</b>
  -  [OS Ticketing System](https://github.com/rmowatt21/osticket-prereqs-)
+ -  [OS Ticketing Post-Installation](https://github.com/rmowatt21/post-install-config)
 
  🔐 <b>Azure Cloud Projects<b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rmowatt21/Configure-AD-.git)
