@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-   <b>🧰OS Ticket (Help Desk Ticketing System)</b>
-  - [OsTicket: Prerequisites and Installation](https://github.com/rmowatt21/osticket-prereqs-)
+ <b>🧰OS Ticket (Help Desk Ticketing System)</b>
+ -  [OS Ticketing System](https://github.com/rmowatt21/osticket-prereqs-)
 
- 🔐  <b>Azure Cloud Projects<b>
+ 🔐 <b>Azure Cloud Projects<b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rmowatt21/Configure-AD-.git)
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//rmowatt21/azure-network-protocols)
   -  [Create a domain in Admin user](https://github.com/rmowatt21/Create-a-domain-Admin-user-within-the-domain.git)
