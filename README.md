@@ -8,8 +8,8 @@
 
  🔐 <b>Azure Cloud Projects<b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rmowatt21/Configure-AD-.git)
-  -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//rmowatt21/azure-network-protocols)
-  -  [Create a domain in Admin user](https://github.com/rmowatt21/Create-a-domain-Admin-user-within-the-domain.git)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//rmowatt21/azure-network-protocols)
+  - [Create a domain in Admin user](https://github.com/rmowatt21/Create-a-domain-Admin-user-within-the-domain.git)
     
 
 #### ⚠️ Vulnerability Management Projects
@@ -18,8 +18,6 @@
  -  [Multiple STIG Remediation](https://github.com/rmowatt21/STIG-Lab)
  -  [Threat Hunting a Tor Web Browser](https://github.com/rmowatt21/Theat-hunting-scenario-tor)
  -  [Vulnerability Management Remediation using Windows](https://github.com/rmowatt21/Creating-and-Programmatically-Remediating-Vulnerabilities-on-Windows)
-
-Running a VM scan on windows. creating vulnerabilities 
 
 # Introduction
 
