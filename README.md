@@ -17,6 +17,7 @@
  -  [Full Vulnerability Project](https://github.com/rmowatt21/vulnerability-management-program/tree/main)
  -  [Multiple STIG Remediation](https://github.com/rmowatt21/STIG-Lab)
  -  [Threat Hunting a Tor Web Browser](https://github.com/rmowatt21/Theat-hunting-scenario-tor)
+ -  [Vulnerability Management Azure using Windows](
 
 #### 🎯 Full SIEM
 
