@@ -20,7 +20,7 @@
  -  [Vulnerability Management Remediation using Windows](https://github.com/rmowatt21/Creating-and-Programmatically-Remediating-Vulnerabilities-on-Windows)
 
     #### ServiceNow Administrator
-
+(https://github.com/rmowatt21/
 
 # Introduction
 
